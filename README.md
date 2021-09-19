@@ -9,7 +9,7 @@
 
 ## Description
 
-A lightweight module for formatting texts with Deno.
+A lightweight module for formatting console texts with Deno.
 
 ## Usage
 

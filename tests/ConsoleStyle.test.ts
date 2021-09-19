@@ -11,7 +11,7 @@ import {
   strikethrough,
   underline,
 } from "https://deno.land/std@0.92.0/fmt/colors.ts";
-import { assertEquals } from "https://deno.land/std@0.87.0/testing/asserts.ts";
+import { assertEquals } from "https://deno.land/std@0.107.0/testing/asserts.ts";
 import { ConsoleStyle } from "../mod.ts";
 
 const style = new ConsoleStyle();
